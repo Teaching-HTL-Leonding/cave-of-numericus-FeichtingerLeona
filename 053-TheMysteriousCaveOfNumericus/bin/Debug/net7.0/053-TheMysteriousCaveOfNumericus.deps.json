@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "053-TheMysteriousCaveOfNumericus/1.0.0": {
+        "runtime": {
+          "053-TheMysteriousCaveOfNumericus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "053-TheMysteriousCaveOfNumericus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
